@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "leaflet": "^1.2.0",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-leaflet": "^1.7.8"
   },
   "devDependencies": {
     "react-scripts": "1.0.17"
